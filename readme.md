@@ -1,4 +1,4 @@
-x-r.ai open source docket
+x-r.ai open source todo list
 
 - expand arxiv-sanres fork https://github.com/trampolinerocket/arxiv-sanpres to add arxiv ui with modern functionality per suggestion by denny britz:
 https://twitter.com/dennybritz/status/874001229042470912
